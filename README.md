@@ -1,5 +1,5 @@
 # hello-world
-humans don't exist
+humans aren't real
 
-Something about my self?¿.....I am from the year 3050. 
+I am from the year 3050. 
 Time traveled back to learn programing.
